@@ -1,0 +1,15 @@
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+G:\Санька\Обучение\DZ_lesson9\Task68\bin\Debug\net6.0\Task68.exe
+G:\Санька\Обучение\DZ_lesson9\Task68\bin\Debug\net6.0\Task68.deps.json
+G:\Санька\Обучение\DZ_lesson9\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+G:\Санька\Обучение\DZ_lesson9\Task68\bin\Debug\net6.0\Task68.dll
+G:\Санька\Обучение\DZ_lesson9\Task68\bin\Debug\net6.0\Task68.pdb
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\Task68.dll
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\refint\Task68.dll
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\Task68.pdb
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+G:\Санька\Обучение\DZ_lesson9\Task68\obj\Debug\net6.0\ref\Task68.dll
